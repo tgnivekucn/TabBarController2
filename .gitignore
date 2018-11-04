@@ -1,0 +1,11 @@
+TabBarControllerAssets.xcassets/.*
+Pods/Pods.xcodeproj/xcuserdata/*
+Pods/Pods.xcodeproj/xcuserdata/
+TabBarController.xcodeproj/xcuserdata/
+TabBarController.xcodeproj/project.xcworkspace/xcuserdata/*
+TabBarController.xcodeproj/project.xcworkspace/xcshareddata/
+TabBarController.xcworkspace/xcuserdata/*
+.DS_Store
+TabBarController/.DS_Store
+TabBarController/*/.DS_Store
+
